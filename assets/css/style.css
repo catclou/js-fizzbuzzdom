@@ -1,0 +1,23 @@
+/* ho utilizzato il mio file CSS solo per dare gli esatti colori custom presenti sul mockup */
+/* il testo nelle box l'ho fatto bianco (nel mockup è nero) solamente perché mi sembrava più gradevole */
+/* per ottenerlo come da mockup, mi bastava evitare di assegnare la classe Bootstrap "text-white" (il colore è nero di default) */
+
+.bg_body {
+    background-color: #083b4c;
+}
+
+.bg_standard {
+    background-color: #1389b2;
+}
+
+.bg_fizzbuzz {
+    background-color: #f0466f;
+}
+
+.bg_fizz {
+    background-color: #0cd6a1;
+}
+
+.bg_buzz {
+    background-color: #ffd166;
+}
